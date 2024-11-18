@@ -4,10 +4,20 @@ body{
 }
 h1{
     color: red;
+    text-align: center;
 }
 h4{
-   text-align: center;
+   text-decoration: underline;
+   color: chocolate;
 }
 p{
     text-decoration: dashed;
+}
+th{
+    background-color: #8571df;
+    color: burlywood;
+}
+td{
+    background-color: #8571df;
+    color:brown;
 }
